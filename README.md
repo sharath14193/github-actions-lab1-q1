@@ -1,1 +1,1 @@
-# GitHub Actions Lab 1 Python
+## GitHub Actions Lab 1 Python
